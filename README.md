@@ -2,7 +2,7 @@
 ## Overview
 This Streamlit application integrates multiple functionalities including generating patient billing reports, health suggestions, and blog posts using the GROQ API. It also features a chatbot for natural language interactions, voice-to-text capabilities, and data visualization.
 
-## Features
+# Features
 ## Generate Patient Billing Reports:
 
 Upload patient data in CSV format.
